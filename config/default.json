@@ -1,0 +1,11 @@
+{
+  "params": {
+    "small_package_max_weight": 400,
+    "package_max_weight": 500,
+    "truck_max_weight": 1000
+  },
+  "mongo": {
+    "host": "mongodb://localhost",
+    "db": "delivery"
+  }
+}
